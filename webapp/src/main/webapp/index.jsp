@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
 <h2> Deploying on a Container </h2>
-<h2> Check2 </h2>
+<h2> Check Docker and Hub </h2>
